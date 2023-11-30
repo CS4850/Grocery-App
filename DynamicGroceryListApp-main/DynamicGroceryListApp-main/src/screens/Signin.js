@@ -86,19 +86,4 @@ const styles = StyleSheet.create({
 
 export default Signin;
 
-//----------------------------------------------
 
-// import {StyleSheet, Text, View} from 'react-native';
-// import React from 'react';
-
-// const Signin = () => {
-//   return (
-//     <View>
-//       <Button>Login</Button>
-//     </View>
-//   );
-// };
-
-// export default Signin;
-
-// const styles = StyleSheet.create({});
